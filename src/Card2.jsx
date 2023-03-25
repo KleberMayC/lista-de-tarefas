@@ -8,7 +8,7 @@ function Card2() {
 
   useEffect(() => {
     inputRef;
-    document.title = `Você tem ${todos.length} tarefas`;
+    document.title = `Você tem ${todos.length} tarefas a fazer`;
   }, [todos]);
 
   const addTodo = (e) => {

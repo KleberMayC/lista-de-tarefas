@@ -1,0 +1,11 @@
+.Cards {
+    display: flex;
+    margin: 20px;
+    justify-content: space-between;
+    background-color: gray;
+    border: 1px solid gray;
+    border-radius: 5px;
+    width: 100px;
+    height: 100px;
+}
+

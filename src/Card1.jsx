@@ -6,11 +6,6 @@ function Card1() {
 
   const inputRef = useRef(null);
 
-  useEffect(() => {
-    inputRef;
-    document.title = `Você tem ${todos.length} tarefas`;
-  }, [todos]);
-
   const addTodo = (e) => {
     e.preventDefault();
 

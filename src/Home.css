@@ -1,0 +1,36 @@
+nav {
+    background-color: #2D2D2D;
+    
+    
+    
+    height: 93px;
+    align-items: center;
+    width: 100%;
+}
+
+.logo {
+    display: flex;
+    justify-content: left;
+    
+    
+    
+}
+
+h1{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 41px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
+
+.Cards{
+
+}
+
